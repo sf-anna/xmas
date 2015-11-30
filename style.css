@@ -1,0 +1,52 @@
+.navbar {
+  color: blue;
+  background:rgba(255,255,255,0.6);
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+    font-weight: bold;
+    font-family: "Rock Salt"
+}
+
+.navbar.navbar-default a {
+    color: black;
+    font-weight: bold;
+    font-family: "Rock Salt"
+    
+}
+
+body { 
+background-image: url(imagesxmas/IMG_9546.jpg); 
+background-repeat: no-repeat; 
+background-size: 100%;
+}
+
+h1 {
+  font-family: "Rock Salt"; 
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  color: black;
+  font-size: 100px;
+  word-spacing: 200px;
+  position: relative;
+  top: 170px;
+}
+
+.form-group {
+  font-family: "Rock Salt"; 
+  color: black;
+  
+}
+
+.my-form {
+  font-family: "Rock Salt"; 
+  
+  text-align: center;
+  position: relative;
+  top: 270px;
+}
+
+
+
